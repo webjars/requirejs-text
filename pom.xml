@@ -38,9 +38,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/webjars/requirejs-domready</url>
-        <connection>scm:git:https://github.com/webjars/requirejs-domready.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/requirejs-domready.git</developerConnection>
+        <url>http://github.com/webjars/requirejs-text</url>
+        <connection>scm:git:https://github.com/webjars/requirejs-text.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/requirejs-text.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
